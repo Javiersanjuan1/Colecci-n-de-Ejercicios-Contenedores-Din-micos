@@ -2,7 +2,6 @@
 #include <vector>
 
 int main() {
-    // Crear
     std::vector<int> miVector;
 
     miVector.push_back(1);
