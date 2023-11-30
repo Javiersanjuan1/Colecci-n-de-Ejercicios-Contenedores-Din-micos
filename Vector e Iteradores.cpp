@@ -10,7 +10,7 @@ int main() {
     miVector.push_back(4);
     miVector.push_back(5);
 
-    // Utilizar un iterador para recorrer y mostrar cada eleme
+    // Utilizar un iterador para recorrer y mostrar cada ele
     std::cout << "Elementos del vector:" << std::endl;
     for (std::vector<int>::iterator it = miVector.begin(); it != miVector.end(); ++it) {
         std::cout << *it << " ";
