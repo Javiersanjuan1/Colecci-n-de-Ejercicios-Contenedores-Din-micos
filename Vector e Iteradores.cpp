@@ -2,7 +2,7 @@
 #include <vector>
 
 int main() {
-    // Crear un vector de enteros
+    // Crear un vector de entero
     std::vector<int> miVector;
 
     // Añadir elementos al vector utilizando push_back
