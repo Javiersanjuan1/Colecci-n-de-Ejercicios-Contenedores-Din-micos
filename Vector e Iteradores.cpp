@@ -2,7 +2,7 @@
 #include <vector>
 
 int main() {
-    // Crear un vector de
+    // Crear un vec
     std::vector<int> miVector;
 
     miVector.push_back(1);
