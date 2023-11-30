@@ -5,7 +5,7 @@ int main() {
     // Crear un vector de entero
     std::vector<int> miVector;
 
-    // Añadir elementos al vector utilizando pus
+    // Añadir elementos al vector utilizando
     miVector.push_back(1);
     miVector.push_back(2);
     miVector.push_back(3);
